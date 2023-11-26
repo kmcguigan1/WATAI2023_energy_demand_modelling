@@ -1,0 +1,20 @@
+{
+    "histograms": "./EnergyConsumption/EnergyConsumption_histograms.png",
+    "boxplots": "./EnergyConsumption/EnergyConsumption_boxplots.png",
+    "correlation_matrix": "N/A",
+    "pairplot": "N/A",
+    "time_series": "N/A",
+    "skewness": {
+        "total_energy": 0.8190476941141467
+    },
+    "kurtosis": {
+        "total_energy": 1.9663231333955467
+    },
+    "quantiles": {
+        "total_energy": {
+            "0.25": 3495.723295855,
+            "0.5": 4732.473670296,
+            "0.75": 6690.858269708
+        }
+    }
+}

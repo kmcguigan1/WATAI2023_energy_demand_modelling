@@ -1,0 +1,111 @@
+{
+    "histograms": "./HousingData/HousingData_histograms.png",
+    "boxplots": "./HousingData/HousingData_boxplots.png",
+    "correlation_matrix": "./HousingData/HousingData_correlation_matrix.png",
+    "pairplot": "./HousingData/HousingData_pairplot.png",
+    "time_series": "N/A",
+    "skewness": {
+        "CrimeRate": 5.223148798243851,
+        "LargeResidentialLotZoning": 2.2256663227354307,
+        "IndustryProportion": 0.29502156787351164,
+        "OnRiver": 3.405904172058746,
+        "NitricOxides": 0.7293079225348787,
+        "AvgRooms": 0.40361213328874385,
+        "ProportionOfPreFourties": -0.5989626398812962,
+        "WeightedDistanceToBusiness": 1.0117805793009007,
+        "HighwayAccess": 1.0048146482182057,
+        "TaxRatePerTenThousand": 0.669955941795016,
+        "StudentTeacherRatioTown": -0.8023249268537809,
+        "ProportionOfAfricanAmerican": -2.8903737121414492,
+        "ProportionOfLowIncome": 0.9064600935915367,
+        "MedianValue": 1.1080984082549072
+    },
+    "kurtosis": {
+        "CrimeRate": 37.13050912952203,
+        "LargeResidentialLotZoning": 4.031510083739155,
+        "IndustryProportion": -1.2335396011495188,
+        "OnRiver": 9.638263777819526,
+        "NitricOxides": -0.06466713336542629,
+        "AvgRooms": 1.8915003664993404,
+        "ProportionOfPreFourties": -0.9677155941626912,
+        "WeightedDistanceToBusiness": 0.4879411222443908,
+        "HighwayAccess": -0.8672319936034931,
+        "TaxRatePerTenThousand": -1.1424079924768082,
+        "StudentTeacherRatioTown": -0.28509138330538875,
+        "ProportionOfAfricanAmerican": 7.226817549260753,
+        "ProportionOfLowIncome": 0.49323951739272776,
+        "MedianValue": 1.495196944165818
+    },
+    "quantiles": {
+        "CrimeRate": {
+            "0.25": 0.08204499999999999,
+            "0.5": 0.25651,
+            "0.75": 3.6770825
+        },
+        "LargeResidentialLotZoning": {
+            "0.25": 0.0,
+            "0.5": 0.0,
+            "0.75": 12.5
+        },
+        "IndustryProportion": {
+            "0.25": 5.19,
+            "0.5": 9.69,
+            "0.75": 18.1
+        },
+        "OnRiver": {
+            "0.25": 0.0,
+            "0.5": 0.0,
+            "0.75": 0.0
+        },
+        "NitricOxides": {
+            "0.25": 0.449,
+            "0.5": 0.538,
+            "0.75": 0.624
+        },
+        "AvgRooms": {
+            "0.25": 5.8854999999999995,
+            "0.5": 6.2085,
+            "0.75": 6.6235
+        },
+        "ProportionOfPreFourties": {
+            "0.25": 45.025,
+            "0.5": 77.5,
+            "0.75": 94.07499999999999
+        },
+        "WeightedDistanceToBusiness": {
+            "0.25": 2.100175,
+            "0.5": 3.2074499999999997,
+            "0.75": 5.1884250000000005
+        },
+        "HighwayAccess": {
+            "0.25": 4.0,
+            "0.5": 5.0,
+            "0.75": 24.0
+        },
+        "TaxRatePerTenThousand": {
+            "0.25": 279.0,
+            "0.5": 330.0,
+            "0.75": 666.0
+        },
+        "StudentTeacherRatioTown": {
+            "0.25": 17.4,
+            "0.5": 19.05,
+            "0.75": 20.2
+        },
+        "ProportionOfAfricanAmerican": {
+            "0.25": 375.3775,
+            "0.5": 391.44,
+            "0.75": 396.225
+        },
+        "ProportionOfLowIncome": {
+            "0.25": 6.949999999999999,
+            "0.5": 11.36,
+            "0.75": 16.955000000000002
+        },
+        "MedianValue": {
+            "0.25": 17.025,
+            "0.5": 21.2,
+            "0.75": 25.0
+        }
+    }
+}
